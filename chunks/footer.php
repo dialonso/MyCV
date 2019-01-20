@@ -1,0 +1,1 @@
+<footer style="text-align: center;"> &reg; Mamadou DIALLO - Master SIPPE </footer>
